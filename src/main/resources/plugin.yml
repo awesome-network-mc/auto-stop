@@ -1,0 +1,5 @@
+main: xyz.awesomenetwork.autostop.AutoStop
+author: MFN
+version: ${project.version}
+name: ${project.artifactId}
+api-version: 1.18
